@@ -38,8 +38,4 @@ By_0w0i0n0g0
 
 ## License
 
-**AGPL-3.0 license**
-
-Read full license [here](https://github.com/0w0i0n0g0/CSE/blob/main/LICENSE).
-
 Logo : [Non-commercial use, DMCA](https://www.pngegg.com/en/png-zfyhd)
