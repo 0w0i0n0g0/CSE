@@ -6,32 +6,22 @@
   <img src="./logo.png" width="200"/>
 </p>
 
-By_0w0i0n0g0
+by_0w0i0n0g0
 </div>
 
 <br>
 <br>
 
-## Description
+## About
 
-- 내가 배운 *Computer Science and Engineering*의 모든 정리 노트.
+*Computer Science and Engineering* 관련 지식 정리 노트 및 링크 모음입니다.
 
 <br>
 <br>
 
-## 목차
+## Table of Contents
 
-### [2024-1 자료구조]()
-
-### [2024-1 빅데이터 기초 수학]()
-
-### [2024-1 빅데이터 분석 입문]()
-
-### [2024-1 확률과 통계]()
-
-### [ADsP 데이터분석 준전문가]()
-
-### [DAsP 데이터아키텍처 준전문가]()
+### [2024-1 자료구조](https://github.com/0w0i0n0g0/CSE/tree/main/2024-1-data-structure)
 
 <br>
 <br>
