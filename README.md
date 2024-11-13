@@ -23,6 +23,14 @@ by_0w0i0n0g0
 
 ### [2024-1 자료구조](https://github.com/0w0i0n0g0/CSE/tree/main/2024-1-data-structure)
 
+### [2024-2 알고리즘](https://github.com/0w0i0n0g0/CSE/tree/main/2024-2-algorithm)
+
+### [2024-2 컴퓨터회로](https://github.com/0w0i0n0g0/CSE/tree/main/2024-2-computer-circuits)
+
+### [2024-2 시스템프로그래밍](https://github.com/0w0i0n0g0/CSE/tree/main/2024-2-sysytem-programming)
+
+### [2024-2 랜덤프로세스개론](https://github.com/0w0i0n0g0/CSE/tree/main/2024-2-introduction-to-stochastic-processes)
+
 <br>
 <br>
 
