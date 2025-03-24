@@ -6,7 +6,7 @@
 
 <br>
 
-## Minimum Spanning Tree 알고리즘에서 Union-Find가 어떻게 사용되는지 설멍하라.
+## Minimum Spanning Tree 알고리즘에서 Union-Find가 어떻게 사용되는지 설명하라.
 
 <br>
 
